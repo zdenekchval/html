@@ -35,6 +35,14 @@ a:hover {
     text-decoration: underline;
 }
 
+section {
+    margin: 20px;
+}
+
+section ul {
+    margin-left: 40px;
+}
+
 /* Obrázek */
 img {
     display: block;
