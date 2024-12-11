@@ -43,6 +43,10 @@ section ul {
     margin-left: 40px;
 }
 
+h2 {
+    margin-top: 10px;
+}
+
 /* Obrázek */
 img {
     display: block;
